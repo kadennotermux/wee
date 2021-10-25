@@ -12,8 +12,8 @@
 </p>g
 WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
-# ```ALEXA-BUG-BOT```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DennisGinger/queen)
+# ```QUEEN-BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HYPER-MOD/bug-bot?color=blue&style=flat-square"></a>
@@ -35,7 +35,7 @@ WhatsApp Bot
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
+[`Click Here`](https://github.com/DennisGinger/queen/blob/main/session.json#L1)
 
 ## `SETTING`
 
@@ -45,7 +45,7 @@ WhatsApp Bot
 
 ## `CHANGE DYNO`
 
-Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
+Off in web ny || turn off web button.
 
 ----------
 
@@ -63,7 +63,3 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
   <a href="https://youtu.be/BcMIibIUmHc"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
 </p>
 
-
-## ```COFFEE```
-
-- [`SAWERIA`](https://saweria.co/hypermod)
